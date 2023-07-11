@@ -1,7 +1,7 @@
 # Higher-level programming - Python, Databases & JavaScript
 
 This repository contains programs written for the higher-level programming
-track at ALX School. In these projects, which began occurring in month
+track at alxafrica. In these projects, which began occurring in month
 four of the year one curriculum, I learned Python, MySQL and JavaScript.
 Simultaneously, I continued to reinforce and expand my skills in C and shell
 scripting. The specific list of projects contained follows:
@@ -36,13 +36,13 @@ scripting. The specific list of projects contained follows:
 ## Acknowledgements :pray:
 
 All work contained in this project was completed as part of the curriculum for
-ALX School. ALX School is a campus-based full-stack software
+alxafrica. alxafrica is a campus-based full-stack software
 engineering program that prepares students for careers in the tech industry
 using project-based peer learning. For more information, visit
-[this link](https://www.ALXschool.com/).
+[this link](https://www.alxafrica.com/).
 
 <p align="center">
-  <img src="http://www.ALXschool.com/ALX-logo.png"
-       alt=" ALX School logo"
+  <img src="http://www.alxafrica.com/alx-logo.png"
+       alt=" alxafrica logo"
   >
 </p>
