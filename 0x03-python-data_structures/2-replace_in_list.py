@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-replace_in_list.py
-# Henriette Tuombe <tuombehenriette@gmail.com.com>
+# Henriette Tuombe <tuombehenriette@gmail.com>
 
 
 def replace_in_list(my_list, idx, element):
