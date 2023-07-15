@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 8-multiple_returns.py
+# Henriette Tuombe <tuombehenriette@gmail.com>
 
 
 def multiple_returns(sentence):
