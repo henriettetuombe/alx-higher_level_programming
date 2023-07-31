@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 102-magic_calculation.py
-# Henriette Tuombe <tuombehenriette@gmail.com>
 
 
 def magic_calculation(a, b):
