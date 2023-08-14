@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 7-base_geometry.py
-# Henriette Tuombe <tuombehenriette@gmail.com>
 """Defines a base geometry class BaseGeometry."""
 
 
